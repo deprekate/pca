@@ -13,4 +13,6 @@ For the example the input file is in the form of tab seperate columns, where the
 If **PCA** ran correctly you should get an output image titled figure.tiff.  If you use the test data, the figure will
 look like the image below:
 ___
+<p align="center">
 ![](https://github.com/deprekate/pca/blob/master/figure.png)
+</p>
