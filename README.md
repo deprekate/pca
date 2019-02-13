@@ -14,5 +14,5 @@ If **PCA** ran correctly you should get an output image titled figure.tiff.  If 
 look like the image below:
 ___
 <p align="center">
-![](https://github.com/deprekate/pca/blob/master/figure.png)
+    <img src="figure.png">
 </p>
