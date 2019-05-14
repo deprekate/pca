@@ -17,14 +17,14 @@ For the example the input file is in the form of tab seperate columns, where the
 ## Output
 If **PCA** ran correctly you should get an output image titled figure.tiff (or figure2.png for python).  If you use the test data, the figure will
 look like the image below:
-R
 ___
+R
 <p align="center">
     <img src="figure.png">
 </p>
 
-Python
 ___
+Python
 <p align="center">
     <img src="figure2.png">
 </p>
