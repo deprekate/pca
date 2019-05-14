@@ -47,6 +47,6 @@ plt.legend(handles=[mpatches.Patch(color=col, label=str(lab)) for lab,col in col
 ax.set_title('amino-acid frequency of potential ORFs from Lambda phage')
 ax.set(xlabel='PC1', ylabel='PC2')
 #plt.show()
-fig.set_size_inches(10, 5)
+fig.set_size_inches(8, 8)
 fig.savefig('figure2.png', dpi=100, format='png')
 
