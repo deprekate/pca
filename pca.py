@@ -48,5 +48,5 @@ ax.set_title('amino-acid frequency of potential ORFs from Lambda phage')
 ax.set(xlabel='PC1', ylabel='PC2')
 #plt.show()
 fig.set_size_inches(10, 5)
-fig.savefig('figure.png', dpi=100, format='png')
+fig.savefig('figure2.png', dpi=100, format='png')
 

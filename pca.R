@@ -15,7 +15,7 @@ dat.scaled <- scale(dat.norm)
 # CLASSIFY EACH ROW USING KMEANS
 clust <- kmeans(dat.scaled, 2)$cluster
 
-# CALCULATED THE PCA
+# CALCULATE THE PRINCIPLE COMPONENTS
 dat.pca <- prcomp(dat.scaled, center = FALSE, scale. = FALSE)
 
 # PLOT
