@@ -32,7 +32,7 @@ g <- ggbiplot(dat.pca,
 g <- g + theme(legend.direction = 'vertical', 
 	legend.justification=c(0,1), 
 	legend.position=c(0.8, 0.95),
-	legend.background = element_rect(linetype = 2, size = 0.5, colour = 1)),
+	legend.background = element_rect(linetype = 2, size = 0.5, colour = 1),
 	legend.key = element_blank()
 	)
 # OPTIONS
